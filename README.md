@@ -1,4 +1,6 @@
 # Ai-Secretary-chatgpt
+!! It is a korean Version !!
+
 [ Use a MIT Licences ]
 
 It is a Ai-Secretary(used chatgpt).
@@ -16,6 +18,8 @@ However, the Google Claude API needs to get the Json file and place it in the sa
 if you need a help? contact me.
 
 thank you!
+
+!! 이것은 한국어 버전입니다. !!
 
 [ MIT 라이센스를 사용합니다. ]
 
